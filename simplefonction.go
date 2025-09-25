@@ -1,4 +1,4 @@
-package projet_git_avance_BaptisteEtMathys_
+package main
 
 import "fmt"
 
