@@ -9,5 +9,5 @@ func functionA(A string) {
 }
 
 func main() {
-	functionA("a")
+	functionA("a!")
 }
