@@ -1,8 +1,7 @@
-# projet-git-avance-BaptisteEtMathys-coucoumathys
+# projet-git-avance-BaptisteEtMathys
 
 ## Function A
 Function A print "Function A" to the console 
-Coucou Baptiste
 
 ## Function B (somme)
 somme is used to add numbers together.
